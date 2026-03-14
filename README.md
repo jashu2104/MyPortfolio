@@ -84,10 +84,8 @@ MIT License – free to use & customize.
 
 •📧 Email: nandyalajashwanthreddy317@gmail.com
 
-•🌐 GitHub: [@jashwanthreddy21](https://github.com/jashwanthreddy21/)
-
-•💼 LinkedIn: [Nandyala Jashwanth Reddy](https://www.linkedin.com/in/nandyala-jashwanth-reddy-49b4552bb/)
+•🌐 GitHub: [@jashwanthreddy21](https://github.com/jashu2104/)
 
 
 # Live Demo
-click [Here](https://jashwanthreddy21.github.io/MyPortfolio/)
+click [Here](https://jashu2104.github.io/MyPortfolio/)
